@@ -1,6 +1,6 @@
 package com.example;
 
-public class Note {
+public class Note implements Play {
 
     private final char value;
 
